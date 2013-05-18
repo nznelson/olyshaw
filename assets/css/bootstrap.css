@@ -333,11 +333,11 @@ a:focus {
 }
 
 .span2 {
-  width: 160px;
-  min-width:160px;
+  width: 14%;
+  
   background-color: #8DC8F0;
   height:249px;
-  margin-right: -25px;
+  margin-right: -2.2%;
   overflow:hidden;
   margin-left:30px;
 }
